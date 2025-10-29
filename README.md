@@ -1,3 +1,6 @@
+Hola, soy Karen Dominguez. 
+![qaefwrg](https://github.com/user-attachments/assets/f1949003-96b0-4a83-ae74-519bf84f006a)
+
 
 Después de la arquitectura y construcción, decidí enfocar mi carrera en Quality Assurance porque me fascina el desafío de encontrar lo que otros no ven y asegurar que la tecnología funcione perfectamente para las personas que la usan, transfiriendo así mis conocimientos previos de detección de errores a esta nueva carrera. Durante mi formación intensiva como QA Engineer, trabajé con proyectos reales que van desde aplicaciones de planificación de rutas hasta plataformas de e-commerce, desarrollé habilidades en testing manual, automatización con Postman, y gestión de defectos con Jira. Lo que más me motiva es ese momento cuando encuentras un error crítico que podría haber afectado a millas de usuarios, o cuando diseñas casos de prueba que cubren escenarios que nadie había considerado. Creo firmemente que la calidad no es un accidente, sino el resultado de un trabajo meticuloso y sistemático. Estoy lista para aportar mi atención al detalle, pensamiento analítico y pasión por la calidad a un equipo que valore la excelencia en sus productos.
 
